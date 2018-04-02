@@ -1,0 +1,135 @@
+
+@import url(https://fonts.googleapis.com/css?family=Libre+Franklin:300, 900|Spectral:600,600i);
+
+
+body {	
+	margin: 0px;
+	padding: 0px;
+	background-color: #000000;	
+	color: #dcdcdc;
+	
+}
+.mother-container {
+	
+	height: 100vh;
+	width: 100vw;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+
+.topnav-menu {
+	font-family: 'Libre Franklin', sans-serif;
+	font-weight: 900;
+	letter-spacing: .08em;
+	font-size: 0.8em;
+	margin-top: 0px;
+	height: 30px;
+	padding-left: 50px;
+	padding-top: 10px;
+	background-color: #000;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	border-bottom-style: solid;
+	border-width: 1px;
+	border-color: #dcdcdc;
+
+}
+
+#intro-dreamyhand {
+
+	background-image: url('../img/dreamy_hand-1200-optimized-1.png');
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+	background-repeat:no-repeat;
+	bottom: : 0px;
+	left: 0px;
+		
+}
+
+
+.intro {
+	
+	font-family: 'Libre Franklin', sans-serif;
+	font-weight: 300;
+	letter-spacing: .05em;
+	font-size: 1.3em;
+	line-height: 1.8;
+	padding-top: 20%;
+	padding-left: 10%;
+			
+}
+.AuthRef {
+
+	font-size: 1em;
+	font-family: 'Spectral', serif;
+	font-weight: 300i;
+	letter-spacing: .02em;
+	text-align: left;    
+	line-height: 1.6;
+	padding-left: 10%;
+
+}
+
+.footernav-comments {
+
+	font-family: 'Spectral', serif;
+	font-weight: 600;
+	letter-spacing: .02em;
+	letter-spacing: .06em;
+	font-size: 0.8em;
+	margin-bottom: 10px;
+	width:90px;
+	height: 30px;
+	padding-left: 50px;
+	padding-top: 10px;
+	background-color: #000;
+	border-width: 10px;
+	border-color: #dcdcdc;
+	position: fixed;
+	bottom: 5px;
+	left: 0px;
+	border-width: 1px;
+	border-color: #dcdcdc;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+
+}
+
+
+/*
+
+#intro2-fireworks {
+
+	background-image: url('../img/fireworks-1200.jpg');
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+	background-repeat:no-repeat;
+	bottom: : 0px;
+	left: 0px;
+
+}	
+	
+
+
+
+
+/*h6 {font-size: 0.7em;
+	font-family: , serif;
+	padding: 30%;
+
+	}
+<img src="img/dreamy_hand-1200-optimized.jpg">
+.shite {
+}
+
+
+
+
+
